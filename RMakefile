@@ -1,0 +1,8 @@
+SOURCE += source/*.cpp
+ARGS += -g
+OUTPUT = pemdas-parser
+GXX = g++
+
+pash{
+      ./$(OUTPUT)
+}
